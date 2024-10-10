@@ -5,7 +5,7 @@
 
 ### About me
 - &#128214; I'm learning **Kotlin**, **Jetpack Compose** and the **Android SDK** (1 year)
-- &#127979; I'm a student of the **Polytechnic College**, currently 3rd year
+- &#127979; I'm a student of the **Polytechnic College**, currently 4th year
 - &#128240; Like to read various articles about **mobile development**
 - &#127911; Like to **listen music** in my free time
 
