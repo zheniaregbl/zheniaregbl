@@ -19,7 +19,7 @@
 ![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Evgeniy's GitHub stats](https://github-readme-stats.vercel.app/api?username=zheniaregbl&show_icons=true&theme=dracula)
+![Evgeniy's GitHub stats](https://github-readme-stats.vercel.app/api?username=zheniaregbl&show_icons=true&theme=holi)
 
 ### You can contact me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/regbl)
